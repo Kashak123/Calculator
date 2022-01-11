@@ -1,0 +1,47 @@
+body{
+    
+    background-color: black;
+
+}
+#container{
+    width: cover;
+    height: 695px;
+    background-image: url(cal.jpg);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+#container h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.calculator{
+    width: 450px;
+    height: 536px;
+    background-color: white;
+    margin: auto;
+    border-radius: 1.7%;
+    background-color: black;
+}
+input{
+    font-size: 34px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 12px;
+}
+table {
+    margin: auto;
+
+}
+button{
+    width: 106px;
+    height: 71px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor:pointer;
+    margin-top: 15px;
+}
